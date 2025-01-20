@@ -1,0 +1,1 @@
+INSERT INTO `person` (`id`,`address`,`first_name`,`gender`,`last_name`) VALUES (1,'SÃO PAULO','PEDRO','MALE','GABRIEL'),(4,'SÃO PAULO','EDUARDA','FEMALE','SANTIAGO '),(5,'CWB','Edenilson','FEMALE','Guebur '),(6,'CWB','Edenilson','FEMALE','Guebur ');
